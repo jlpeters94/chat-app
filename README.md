@@ -2,8 +2,8 @@
 
 ## System Requirements:
 
-* Node.js
-* Yarn
+* Node.js (Recommended version: v18.16.0)
+* Yarn (Recommended version: v3.5.1)
 
 ## Steps to Run the Project:
 
